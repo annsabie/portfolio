@@ -17,10 +17,10 @@ main {
   .main {
     width: 50%;
   }
-  header {
+  #nav {
       background: lightcoral;
   }
-  .start {
+  #about {
       width: 100%;
   }
 }
@@ -29,10 +29,14 @@ main {
   .main {
       width: 100%;
   }
-  header {
+  #ann {
+    width: 100%;
+    align-items: center;
+  }
+  #nav {
       background: rosybrown;
   }
-  .start {
+  #about {
       width: 100%;
       font-size: 15px;
   }
