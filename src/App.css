@@ -12,3 +12,28 @@ main {
   list-style-type: none;
   text-decoration: none;
 }
+
+@media screen and (max-width: 992px) {
+  .main {
+    width: 50%;
+  }
+  header {
+      background: lightcoral;
+  }
+  .start {
+      width: 100%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .main {
+      width: 100%;
+  }
+  header {
+      background: rosybrown;
+  }
+  .start {
+      width: 100%;
+      font-size: 15px;
+  }
+}
