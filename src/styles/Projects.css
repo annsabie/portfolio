@@ -1,0 +1,53 @@
+.project1 {
+    flex-grow: 2;
+    text-decoration: none;
+}
+
+.project2 {
+    flex-grow: 1;
+    text-decoration: none;
+}
+
+.project3 {
+    flex-grow: 1;
+}
+
+.project4 {
+    flex-grow: 1;
+}
+
+.project1 img {
+    flex: 2 1 1;
+    display: block;
+    margin: 10px auto;
+    max-width: 700px;
+    max-height: 700px;
+    border-radius: 8px;
+}
+
+.project2 img {
+    flex: 1 1 1;
+    display: block;
+    margin: 10px auto;
+    max-width: 600px;
+    max-height: 600px;
+    border-radius: 8px;
+}
+
+.project3 img {
+    flex: 1 1 1;
+    display: block;
+    margin: 10px auto;
+    max-width: 600px;
+    max-height: 600px;
+    border-radius: 8px;
+}
+
+.project4 img {
+    flex: 1 1 1;
+    display: block;
+    margin: 10px auto;
+    max-width: 600px;
+    max-height: 600px;
+    border-radius: 8px;
+}
