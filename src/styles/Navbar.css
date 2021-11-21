@@ -1,4 +1,10 @@
 #nav {
-  background-color:lightpink;
+  background-color: #b98389;
   padding-bottom: 10px;
+  color: #54494b;
+
 }
+.nav-link {
+  color: #9da39a
+}
+
