@@ -10,7 +10,8 @@ function About() {
         <img id= "ann" src={Ann} alt="Ann"></img>
       </div>
       <div class = "col-md-8">
-        <h1 class = "display-4">Hi, I'm Ann</h1>
+        <h1 class = "display-3">Hi, I'm Ann</h1>
+        <h2 class="display-5">Full Stack Software Developer</h2>
         <p class = "lead">
             This is where I will write about my skills learned in this bootcamp. Highlighting what I want potential employers to focus on.
           </p>
