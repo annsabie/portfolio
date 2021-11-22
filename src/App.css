@@ -32,12 +32,12 @@ main {
       width: 100%;
   }
   #ann {
-    width: 100%;
+    
     align-items: center;
   }
 
   #about {
       width: 100%;
-      font-size: 15px;
+      
   }
 }
