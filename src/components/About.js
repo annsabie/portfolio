@@ -13,9 +13,9 @@ function About() {
         <h1 class = "display-3">Hi, I'm Ann</h1>
         <h2 class="display-5">Full Stack Software Developer</h2>
         <p class = "lead">
-            This is where I will write about my skills learned in this bootcamp. Highlighting what I want potential employers to focus on.
+            A recent graduate of the University of Minnesota's Full Stack Web Development Bootcamp.
           </p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula rutrum ante vel finibus. Mauris pulvinar ultricies odio, ac congue tortor pellentesque ac. Pellentesque congue est eget elit porta posuere. Aenean ultrices dui et tortor blandit porttitor.</p>
+          <p>I have newly developed skills in JavaScript, CSS, Node, React, and responsive web design. Below are some examples of collaborations I've worked on during my time as a student.</p>
       </div>
     </div>
   </div>
