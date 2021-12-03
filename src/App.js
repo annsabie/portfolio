@@ -3,15 +3,16 @@ import About from "./components/About";
 import Projects from "./components/Projects";
 import Footer from "./components/Footer"
 import "./App.css"
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
-    <div>
+    <Router>
       <Navbar />
       <About />
       <Projects />
       <Footer />
-    </div>
+    </Router>
   );
 }
 

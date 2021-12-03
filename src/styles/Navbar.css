@@ -5,6 +5,13 @@
 
 }
 .nav-link {
-  color: #9da39a
+  color: #54494b;
 }
 
+#name {
+  font-size: 40px;
+}
+
+#contact {
+  font-size: 20px;
+}

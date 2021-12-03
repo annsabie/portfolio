@@ -1,13 +1,13 @@
 import React from 'react';
 import '../styles/About.css';
-import Ann from "./images/ann3.png";
+import Ann from "./images/ann2.png";
 
 function About() {
   return (
     <div class = "container" id="about">
     <div class = "row">
       <div class = "col-md-4">
-        <img id= "ann" src={Ann} alt="Ann"></img>
+        <img class="img-fluid" id= "ann" src={Ann} alt="Ann"></img>
       </div>
       <div class = "col-md-8">
         <h1 class = "display-3">Hi, I'm Ann</h1>
