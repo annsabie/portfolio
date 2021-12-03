@@ -2189,3 +2189,9 @@ input, select, textarea {
 			}
 
 		}
+
+		a:visited { text-decoration: none;
+			color: #777777; }
+			a {
+				color: #777777;
+			}
